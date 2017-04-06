@@ -2,10 +2,11 @@
   display: none;
   margin-top: 20px;
 }
-img {
-  width: 100%;
-  height: auto;
-}
+
 .container {
   background-color: #87b6bc;
+}
+
+#button1 {
+  margin-bottom: 20px;
 }
